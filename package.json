@@ -1,11 +1,11 @@
 {
-  "name": "sit725-3.2p",
+  "name": "public",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "script.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
